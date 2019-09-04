@@ -99,3 +99,13 @@ h1 {
     color: #F15B31;
     font-weight: 700;
   }
+
+  #reset {
+    background-color: red;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    margin: 10px;
+  }
